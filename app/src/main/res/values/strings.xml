@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Time to Meet</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_country">Country</string>
+    <string name="hint_city">City</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_house">House</string>
+    <string name="hint_building">Building</string>
+    <string name="hint_address_comment">Comment</string>
+    <string name="hint_choose_date">Choose time</string>
+    <string name="hint_choose_duration">Choose date</string>
+    <string name="SaveButton">Save</string>
+</resources>
